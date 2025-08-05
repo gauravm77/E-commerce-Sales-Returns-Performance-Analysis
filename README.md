@@ -70,12 +70,12 @@ This project is a comprehensive **Sales & Profitability Tracker** built entirely
 
 ## 📸 Dashboard Preview & Dataset
 
-- Dashboard 
+- <a href="https://github.com/gauravm77/E-commerce-Sales-Returns-Performance-Analysis/blob/main/E-commerse%20ss.png">Dashboard Preview</a>
 - <a href="https://github.com/gauravm77/E-commerce-Sales-Returns-Performance-Analysis/blob/main/Ecommerce_Analytics_Project.xlsx">Dataset</a>
 ---
 
 ## 🤝 Connect With Me
 
 - 📧 Email: gauravdm663@gmail.com  
-- 💼 [[LinkedIn]([url](https://www.linkedin.com/in/gauravmahajan7507/))]
+- 💼 [LinkedIn](https://www.linkedin.com/in/gauravmahajan7507/)
 
